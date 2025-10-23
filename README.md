@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webdongho
 
 <!DOCTYPE html>
@@ -145,3 +146,6 @@ STRIPE_SECRET_KEY=chuoi-khoa-bi-mat-cua-stripe
     </footer>
   </body>
 </html>
+=======
+# shop_dongho
+>>>>>>> a194f29accddf051c6bc9922749172965a585d35
