@@ -14,6 +14,11 @@
     </header>
     <section id="gioi-thieu">
       <h2>Giới thiệu</h2>
+      <p>thành viên</p>
+      <p>Đặng Việt Anh – MSSV: 23010386</p>
+      <p>Nguyễn Quang Huy – MSSV: 23010731</p>
+      <p>Lê Hoàng Hải – MSSV: 23010794</p>
+      <p>Lưu Nguyễn Quang Huy – MSSV: 23010426</p>
       <p>
         Dự án này là một ứng dụng web cho phép người dùng mua sắm đồng hồ trực
         tuyến. Người dùng có thể dễ dàng duyệt các mẫu đồng hồ có sẵn, kiểm tra
